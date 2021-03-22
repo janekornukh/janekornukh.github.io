@@ -1,0 +1,239 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <filter id="Background" x="0" y="728.5" width="375" height="83.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="-0.5" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-color="#401d49" flood-opacity="0.231"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Home_Screen_12">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="Home_Screen_12" data-name="Home Screen – 12" clip-path="url(#clip-Home_Screen_12)">
+    <rect width="375" height="812" fill="#fff"/>
+    <g id="Component_30_7" data-name="Component 30 – 7" transform="translate(0 729)">
+      <g id="Tab_Bar" data-name="Tab Bar">
+        <g transform="matrix(1, 0, 0, 1, 0, -729)" filter="url(#Background)">
+          <path id="Background-2" data-name="Background" d="M0,0H375V83H0Z" transform="translate(0 729)" fill="rgba(249,249,249,0.94)" opacity="0.999"/>
+        </g>
+        <g id="Tab_5" data-name="Tab 5" transform="translate(-3155 -7042)">
+          <rect id="Frame" width="76" height="49" transform="translate(3454 7042)" fill="rgba(255,255,255,0)"/>
+          <g id="Group" transform="translate(0 -2)">
+            <g id="Glyph" transform="translate(-40 -11)">
+              <rect id="Frame-2" data-name="Frame" width="48" height="32" transform="translate(3508 7058)" fill="rgba(255,255,255,0)"/>
+            </g>
+            <text id="Settings" transform="translate(3468 7079)" fill="#401d49" font-size="10" font-family="SFProText-Medium, SF Pro Text" font-weight="500" letter-spacing="-0.024em"><tspan x="4.747" y="10">Settings</tspan></text>
+          </g>
+        </g>
+        <g id="Tab_4" data-name="Tab 4" transform="translate(-3228 -7042)">
+          <rect id="Frame-3" data-name="Frame" width="76" height="49" transform="translate(3454 7042)" fill="rgba(255,255,255,0)"/>
+          <g id="Group-2" data-name="Group" transform="translate(0 -2)">
+            <g id="Glyph-2" data-name="Glyph" transform="translate(-40 -11)">
+              <rect id="Frame-4" data-name="Frame" width="48" height="32" transform="translate(3508 7058)" fill="rgba(255,255,255,0)"/>
+            </g>
+            <text id="Meal_Plans" data-name="Meal Plans" transform="translate(3465 7079)" fill="#401d49" font-size="10" font-family="SFProText-Medium, SF Pro Text" font-weight="500" letter-spacing="-0.024em"><tspan x="0.606" y="10">Meal Plans</tspan></text>
+          </g>
+        </g>
+        <g id="Tab_3" data-name="Tab 3" transform="translate(-3304 -7042)">
+          <rect id="Frame-5" data-name="Frame" width="76" height="49" transform="translate(3454 7042)" fill="rgba(255,255,255,0)"/>
+          <g id="Group-3" data-name="Group" transform="translate(0 -2)">
+            <g id="Glyph-3" data-name="Glyph" transform="translate(-40 -11)">
+              <rect id="Frame-6" data-name="Frame" width="48" height="32" transform="translate(3508 7058)" fill="rgba(255,255,255,0)"/>
+            </g>
+            <text id="Recipe" transform="translate(3468 7079)" fill="#401d49" font-size="10" font-family="SFProText-Medium, SF Pro Text" font-weight="500" letter-spacing="-0.024em"><tspan x="8.243" y="10">Recipe</tspan></text>
+          </g>
+        </g>
+        <g id="Tab_2" data-name="Tab 2" transform="translate(-3379 -7042)">
+          <rect id="Frame-7" data-name="Frame" width="76" height="49" transform="translate(3454 7042)" fill="rgba(255,255,255,0)"/>
+          <g id="Group-4" data-name="Group" transform="translate(0 -2)">
+            <g id="Glyph-4" data-name="Glyph" transform="translate(-40 -11)">
+              <rect id="Frame-8" data-name="Frame" width="48" height="32" transform="translate(3508 7058)" fill="rgba(255,255,255,0)"/>
+            </g>
+            <text id="Grocery_List" data-name="Grocery List" transform="translate(3463 7079)" fill="#401d49" font-size="10" font-family="SFProText-Medium, SF Pro Text" font-weight="500" letter-spacing="-0.024em"><tspan x="0.896" y="10">Grocery List</tspan></text>
+          </g>
+        </g>
+        <g id="Tab_1" data-name="Tab 1" transform="translate(-3454 -7042)">
+          <rect id="Frame-9" data-name="Frame" width="76" height="49" transform="translate(3454 7042)" fill="rgba(255,255,255,0)"/>
+          <g id="Group-5" data-name="Group" transform="translate(0 -2)">
+            <text id="Tasks" transform="translate(3468 7079)" fill="#401d49" font-size="10" font-family="SFProText-Medium, SF Pro Text" font-weight="500" letter-spacing="-0.024em"><tspan x="10.825" y="10">Tasks</tspan></text>
+          </g>
+        </g>
+      </g>
+      <path id="Icon_awesome-book-open" data-name="Icon awesome-book-open" d="M24.108,2.252c-2.437.138-7.279.642-10.269,2.472a.684.684,0,0,0-.323.586V21.488a.7.7,0,0,0,1.035.6c3.076-1.548,7.524-1.971,9.724-2.086a1.387,1.387,0,0,0,1.335-1.363V3.617a1.394,1.394,0,0,0-1.5-1.365ZM11.771,4.724C8.781,2.894,3.938,2.391,1.5,2.252A1.394,1.394,0,0,0,0,3.617V18.639A1.386,1.386,0,0,0,1.335,20c2.2.116,6.651.538,9.727,2.088a.7.7,0,0,0,1.032-.6V5.3A.669.669,0,0,0,11.771,4.724Z" transform="translate(174.55 9.5)" fill="#401d49"/>
+      <path id="Icon_ionic-ios-settings" data-name="Icon ionic-ios-settings" d="M24.508,15.4a2.806,2.806,0,0,1,1.8-2.618,11.124,11.124,0,0,0-1.346-3.243,2.844,2.844,0,0,1-1.142.244A2.8,2.8,0,0,1,21.26,5.846,11.09,11.09,0,0,0,18.023,4.5a2.8,2.8,0,0,1-5.236,0A11.124,11.124,0,0,0,9.543,5.846,2.8,2.8,0,0,1,6.982,9.787,2.751,2.751,0,0,1,5.84,9.543,11.37,11.37,0,0,0,4.5,12.792a2.806,2.806,0,0,1,.006,5.236,11.124,11.124,0,0,0,1.346,3.243,2.8,2.8,0,0,1,3.7,3.7,11.189,11.189,0,0,0,3.243,1.346,2.8,2.8,0,0,1,5.225,0,11.124,11.124,0,0,0,3.243-1.346,2.8,2.8,0,0,1,3.7-3.7A11.189,11.189,0,0,0,26.3,18.028,2.82,2.82,0,0,1,24.508,15.4Zm-9.053,4.538A4.543,4.543,0,1,1,20,15.4,4.542,4.542,0,0,1,15.456,19.942Z" transform="translate(322.5 5.627)" fill="#401d49"/>
+      <path id="Icon_material-restaurant" data-name="Icon material-restaurant" d="M12.964,10.406H10.848V3H8.732v7.406H6.616V3H4.5v7.406a4.217,4.217,0,0,0,3.967,4.2v9.553h2.645V14.606a4.217,4.217,0,0,0,3.967-4.2V3H12.964Zm5.29-3.174V15.7H20.9v8.464h2.645V3C20.623,3,18.253,5.37,18.253,7.232Z" transform="translate(247.5 8)" fill="#401d49"/>
+      <path id="Icon_material-local-grocery-store" data-name="Icon material-local-grocery-store" d="M8.28,20.727a2.216,2.216,0,1,0,2.26,2.216A2.235,2.235,0,0,0,8.28,20.727ZM1.5,3V5.216H3.76l4.068,8.409L6.3,16.34A2.11,2.11,0,0,0,6.02,17.4a2.245,2.245,0,0,0,2.26,2.216H21.839V17.4H8.754a.277.277,0,0,1-.282-.277l.034-.133,1.017-1.806h8.418a2.256,2.256,0,0,0,1.977-1.141l4.045-7.191a1.066,1.066,0,0,0,.136-.532,1.122,1.122,0,0,0-1.13-1.108H6.257L5.195,3ZM19.579,20.727a2.216,2.216,0,1,0,2.26,2.216A2.235,2.235,0,0,0,19.579,20.727Z" transform="translate(98.5 9)" fill="#401d49"/>
+      <path id="Icon_awesome-tasks" data-name="Icon awesome-tasks" d="M6.255,2.406a.538.538,0,0,0-.762,0L2.64,5.243,1.623,4.252a.538.538,0,0,0-.762,0l-.7.7a.538.538,0,0,0,0,.762L2.29,7.841a.573.573,0,0,0,.789,0l.7-.7L7.013,3.907a.542.542,0,0,0,0-.762Zm0,7.133a.538.538,0,0,0-.762,0L2.64,12.394,1.623,11.4a.538.538,0,0,0-.762,0l-.7.7a.538.538,0,0,0,0,.762L2.285,15a.572.572,0,0,0,.789,0l.7-.7,3.235-3.236a.538.538,0,0,0,0-.757ZM2.868,17.3a2.151,2.151,0,1,0,0,4.3,2.151,2.151,0,0,0,0-4.3Zm19.356.717H9.32a.717.717,0,0,0-.717.717v1.434a.717.717,0,0,0,.717.717h12.9a.717.717,0,0,0,.717-.717V18.738A.717.717,0,0,0,22.224,18.021Zm0-14.338H9.32A.717.717,0,0,0,8.6,4.4V5.834a.717.717,0,0,0,.717.717h12.9a.717.717,0,0,0,.717-.717V4.4A.717.717,0,0,0,22.224,3.683Zm0,7.169H9.32a.717.717,0,0,0-.717.717V13a.717.717,0,0,0,.717.717h12.9A.717.717,0,0,0,22.941,13V11.569A.717.717,0,0,0,22.224,10.852Z" transform="translate(25.1 12.063)" fill="#401d49"/>
+    </g>
+    <g id="Home_Indicator" data-name="Home Indicator" transform="translate(1 779)">
+      <rect id="Frame-10" data-name="Frame" width="375" height="34" fill="#fff" opacity="0"/>
+      <rect id="Home_Indicator-2" data-name="Home Indicator" width="134" height="5" rx="2.5" transform="translate(121 21)"/>
+    </g>
+    <g id="Safe_Area_-_Portrait" data-name="Safe Area - Portrait" transform="translate(0 44)">
+      <g id="Layout_Margins_-_Compact_Width" data-name="Layout Margins - Compact Width">
+        <rect id="Layout_Margin:_Right" data-name="Layout Margin: Right" width="16" height="734" transform="translate(359)" fill="none"/>
+        <rect id="Layout_Margin:_Left" data-name="Layout Margin: Left" width="16" height="734" transform="translate(0 0)" fill="none"/>
+      </g>
+    </g>
+    <g id="Component_28_16" data-name="Component 28 – 16" transform="translate(1 -1)">
+      <g id="Status_Bar" data-name="Status Bar">
+        <rect id="Frame-11" data-name="Frame" width="375" height="44" fill="#fff" opacity="0.001"/>
+        <g id="Status_Bar-2" data-name="Status Bar" transform="translate(21 13)">
+          <g id="Battery" transform="translate(315.672 3.333)">
+            <g id="Border" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1" opacity="0.35">
+              <rect width="22" height="11.333" rx="2.667" stroke="none"/>
+              <rect x="0.5" y="0.5" width="21" height="10.333" rx="2.167" fill="none"/>
+            </g>
+            <path id="Cap" d="M0,0V4A2.17,2.17,0,0,0,1.328,2,2.17,2.17,0,0,0,0,0" transform="translate(23 3.667)" opacity="0.4"/>
+            <rect id="Capacity" width="18" height="7.333" rx="1.333" transform="translate(2 2)"/>
+          </g>
+          <path id="Wifi" d="M7.667,11a.314.314,0,0,1-.222-.093L5.439,8.885a.31.31,0,0,1-.094-.231.316.316,0,0,1,.1-.227,3.437,3.437,0,0,1,4.437,0,.315.315,0,0,1,.009.458L7.889,10.907A.314.314,0,0,1,7.667,11ZM11.19,7.451a.313.313,0,0,1-.215-.086,4.928,4.928,0,0,0-6.612,0,.313.313,0,0,1-.215.086.308.308,0,0,1-.22-.091L2.768,6.189a.322.322,0,0,1,0-.46,7.192,7.192,0,0,1,9.791,0,.323.323,0,0,1,.1.23.319.319,0,0,1-.095.23L11.409,7.36A.309.309,0,0,1,11.19,7.451Zm2.669-2.693a.3.3,0,0,1-.215-.088,8.68,8.68,0,0,0-11.955,0,.307.307,0,0,1-.435,0L.094,3.5a.323.323,0,0,1,0-.457,10.948,10.948,0,0,1,15.141,0,.323.323,0,0,1,0,.457l-1.161,1.17A.306.306,0,0,1,13.859,4.758Z" transform="translate(295.339 3.331)"/>
+          <path id="Cellular_Connection" data-name="Cellular Connection" d="M16,10.667H15a1,1,0,0,1-1-1V1a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9.667A1,1,0,0,1,16,10.667Zm-4.667,0h-1a1,1,0,0,1-1-1V3.334a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9.667A1,1,0,0,1,11.334,10.667Zm-4.667,0h-1a1,1,0,0,1-1-1v-4a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1v4A1,1,0,0,1,6.666,10.667ZM2,10.667H1a1,1,0,0,1-1-1v-2a1,1,0,0,1,1-1H2a1,1,0,0,1,1,1v2A1,1,0,0,1,2,10.667Z" transform="translate(273.339 3.667)"/>
+          <g id="Time_Style" data-name="Time Style">
+            <text id="Time" font-size="15" font-family="SFProText-Semibold, SF Pro Text" font-weight="600" letter-spacing="-0.02em"><tspan x="11.362" y="14">9:41</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Component_27_1" data-name="Component 27 – 1" transform="translate(22 44)">
+        <g id="Backward_arrow" data-name="Backward arrow">
+          <path id="Path_10" data-name="Path 10" d="M8,0,6.545,1.455l5.506,5.506H0V9.039H12.052L6.545,14.545,8,16l8-8Z" transform="translate(16 16) rotate(180)" fill="#401d49"/>
+        </g>
+        <text id="Tasks-2" data-name="Tasks" transform="translate(87)" fill="#401d49" font-size="17" font-family="SFProText-Semibold, SF Pro Text" font-weight="600" letter-spacing="-0.024em"><tspan x="56.097" y="16">Tasks</tspan></text>
+      </g>
+    </g>
+    <text id="Select_Week" data-name="Select Week" transform="translate(-0.5 111)" fill="#727171" font-size="30" font-family="Kopius-Book, Kopius" letter-spacing="-0.024em"><tspan x="108.635" y="29">Select Week</tspan></text>
+    <path id="Path_232" data-name="Path 232" d="M32.7,0H321.965a32.7,32.7,0,0,1,32.7,32.7V292.619a32.7,32.7,0,0,1-32.7,32.7H32.7A32.7,32.7,0,0,1,0,292.619V32.7A32.7,32.7,0,0,1,32.7,0Z" transform="translate(10.46 223.271)" fill="#f5f5f5"/>
+    <rect id="Rectangle_2156" data-name="Rectangle 2156" width="326" height="41" rx="20.5" transform="translate(25 386)" fill="#6ac459"/>
+    <g id="Picker_-_Compact_Light" data-name="Picker - Compact Light" transform="translate(-14 -4248)">
+      <path id="Background-3" data-name="Background" d="M0,812Z" transform="translate(20 3980.859)" fill="#fff"/>
+      <g id="Month" transform="translate(45 4508)">
+        <g id="Week_5" data-name="Week 5" transform="translate(3 236)">
+          <g id="Day_30" data-name="Day 30" transform="translate(95)">
+            <text id="_30" data-name="30" transform="translate(12 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-11.503" y="0">30</tspan></text>
+          </g>
+          <g id="Day_29" data-name="Day 29" transform="translate(48)">
+            <text id="_29" data-name="29" transform="translate(11 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-11.345" y="0">29</tspan></text>
+          </g>
+          <g id="Day_28" data-name="Day 28">
+            <text id="_28" data-name="28" transform="translate(11 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-11.364" y="0">28</tspan></text>
+          </g>
+        </g>
+        <g id="Week_4" data-name="Week 4" transform="translate(4 187)">
+          <g id="Day_27" data-name="Day 27" transform="translate(287)">
+            <text id="_27" data-name="27" transform="translate(11 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-10.705" y="0">27</tspan></text>
+          </g>
+          <g id="Day_26" data-name="Day 26" transform="translate(239)">
+            <text id="_26" data-name="26" transform="translate(11 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-11.345" y="0">26</tspan></text>
+          </g>
+          <g id="Day_25" data-name="Day 25" transform="translate(191)">
+            <text id="_25" data-name="25" transform="translate(11 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-11.169" y="0">25</tspan></text>
+          </g>
+          <g id="Day_24" data-name="Day 24" transform="translate(143)">
+            <text id="_24" data-name="24" transform="translate(11 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-11.271" y="0">24</tspan></text>
+          </g>
+          <g id="Day_23" data-name="Day 23" transform="translate(95)">
+            <text id="_23" data-name="23" transform="translate(11 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-11.252" y="0">23</tspan></text>
+          </g>
+          <g id="Day_22" data-name="Day 22" transform="translate(47)">
+            <text id="_22" data-name="22" transform="translate(11 18)" fill="#01010d" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-11.03" y="0">22</tspan></text>
+          </g>
+          <g id="Day_21" data-name="Day 21">
+            <text id="_21" data-name="21" transform="translate(10 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-9.703" y="0">21</tspan></text>
+          </g>
+        </g>
+        <g id="Week_3" data-name="Week 3" transform="translate(4 138)">
+          <g id="Day_20" data-name="Day 20" transform="translate(287)">
+            <text id="_20" data-name="20" transform="translate(11 18)" fill="#9142a5" font-size="24" font-family="SFProText-Bold, SF Pro Text" font-weight="700" letter-spacing="-0.046em"><tspan x="-15.38" y="0">20</tspan></text>
+          </g>
+          <g id="Day_19" data-name="Day 19" transform="translate(240)">
+            <text id="_19" data-name="19" transform="translate(10 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-10.019" y="0">19</tspan></text>
+          </g>
+          <g id="Day_18" data-name="Day 18" transform="translate(192)">
+            <text id="_18" data-name="18" transform="translate(10 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-10.037" y="0">18</tspan></text>
+          </g>
+          <g id="Day_17" data-name="Day 17" transform="translate(145)">
+            <text id="_17" data-name="17" transform="translate(9 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-9.378" y="0">17</tspan></text>
+          </g>
+          <g id="Day_16" data-name="Day 16" transform="translate(96)">
+            <text id="_16" data-name="16" transform="translate(10 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-10.019" y="0">16</tspan></text>
+          </g>
+          <g id="Day_15" data-name="Day 15" transform="translate(48)">
+            <text id="_15" data-name="15" transform="translate(10 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-9.842" y="0">15</tspan></text>
+          </g>
+          <g id="Day_14" data-name="Day 14">
+            <text id="_14" data-name="14" transform="translate(10 18)" fill="#9142a5" font-size="24" font-family="SFProText-Bold, SF Pro Text" font-weight="700" letter-spacing="-0.046em"><tspan x="-13.833" y="0">14</tspan></text>
+          </g>
+        </g>
+        <g id="Week_2" data-name="Week 2" transform="translate(9 89)">
+          <g id="Day_13" data-name="Day 13" transform="translate(283)">
+            <text id="_13" data-name="13" transform="translate(10 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-9.926" y="0">13</tspan></text>
+          </g>
+          <g id="Day_12" data-name="Day 12" transform="translate(235)">
+            <text id="_12" data-name="12" transform="translate(10 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-9.703" y="0">12</tspan></text>
+          </g>
+          <g id="Day_11" data-name="Day 11" transform="translate(189)">
+            <text id="_11" data-name="11" transform="translate(8 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-8.376" y="0">11</tspan></text>
+          </g>
+          <g id="Day_10" data-name="Day 10" transform="translate(139)">
+            <text id="_10" data-name="10" transform="translate(10 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-9.954" y="0">10</tspan></text>
+          </g>
+          <g id="Day_9" data-name="Day 9" transform="translate(95)">
+            <text id="_9" data-name="9" transform="translate(6 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-6.049" y="0">9</tspan></text>
+          </g>
+          <g id="Day_8" data-name="Day 8" transform="translate(47)">
+            <text id="_8" data-name="8" transform="translate(6 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-6.067" y="0">8</tspan></text>
+          </g>
+          <g id="Day_7" data-name="Day 7">
+            <text id="_7" data-name="7" transform="translate(5 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-5.409" y="0">7</tspan></text>
+          </g>
+        </g>
+        <g id="Week_1" data-name="Week 1" transform="translate(58 29)">
+          <g id="Day_6" data-name="Day 6" transform="translate(238 11)">
+            <text id="_6" data-name="6" transform="translate(6 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-6.049" y="0">6</tspan></text>
+          </g>
+          <g id="Day_5" data-name="Day 5" transform="translate(190 11)">
+            <text id="_5" data-name="5" transform="translate(6 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-5.873" y="0">5</tspan></text>
+          </g>
+          <g id="Day_4" data-name="Day 4" transform="translate(125)">
+            <circle id="Colour" cx="22" cy="22" r="22" fill="rgba(0,122,255,0.12)" opacity="0"/>
+            <text id="_4" data-name="4" transform="translate(22 31)" fill="#01010d" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="0.006em"><tspan x="-6.114" y="0">4</tspan></text>
+          </g>
+          <g id="Day_3" data-name="Day 3" transform="translate(94 11)">
+            <text id="_3" data-name="3" transform="translate(6 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-5.956" y="0">3</tspan></text>
+          </g>
+          <g id="Day_2" data-name="Day 2" transform="translate(46 11)">
+            <text id="_2" data-name="2" transform="translate(6 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-5.733" y="0">2</tspan></text>
+          </g>
+          <g id="Day_1" data-name="Day 1" transform="translate(0 11)">
+            <text id="_1" data-name="1" transform="translate(4 18)" font-size="19" font-family="SFProText-Regular, SF Pro Text" letter-spacing="-0.046em"><tspan x="-4.407" y="0">1</tspan></text>
+          </g>
+        </g>
+        <text id="SAT" transform="translate(287 12)" fill="rgba(60,60,67,0.3)" font-size="13" font-family="SFProText-Semibold, SF Pro Text" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">SAT</tspan></text>
+        <text id="FRI" transform="translate(242 12)" fill="rgba(60,60,67,0.3)" font-size="13" font-family="SFProText-Semibold, SF Pro Text" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">FRI</tspan></text>
+        <text id="THU" transform="translate(190 12)" fill="rgba(60,60,67,0.3)" font-size="13" font-family="SFProText-Semibold, SF Pro Text" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">THU</tspan></text>
+        <text id="WED" transform="translate(141 12)" fill="rgba(60,60,67,0.3)" font-size="13" font-family="SFProText-Semibold, SF Pro Text" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">WED</tspan></text>
+        <text id="TUE" transform="translate(96 12)" fill="rgba(60,60,67,0.3)" font-size="13" font-family="SFProText-Semibold, SF Pro Text" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">TUE</tspan></text>
+        <text id="MON" transform="translate(45 12)" fill="rgba(60,60,67,0.3)" font-size="13" font-family="SFProText-Semibold, SF Pro Text" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">MON</tspan></text>
+        <text id="SUN" transform="translate(0 12)" fill="rgba(60,60,67,0.3)" font-size="13" font-family="SFProText-Semibold, SF Pro Text" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">SUN</tspan></text>
+      </g>
+      <g id="Arrows_-_Next_and_Previous" data-name="Arrows - Next and Previous" transform="translate(307 4475)">
+        <text id="_" data-name="􀆊" transform="translate(43 19)" fill="#007aff" font-size="20" font-family="SFProDisplay-Medium, SF Pro Display" font-weight="500" letter-spacing="0.013em"><tspan x="0" y="0">􀆊</tspan></text>
+        <text id="_2-2" data-name="􀆉" transform="translate(0 19)" fill="#007aff" font-size="20" font-family="SFProDisplay-Medium, SF Pro Display" font-weight="500" letter-spacing="0.013em"><tspan x="0" y="0">􀆉</tspan></text>
+      </g>
+      <g id="Month_and_Year" data-name="Month and Year" transform="translate(52 4475)">
+        <text id="_3-2" data-name="􀆊" transform="translate(105 17)" fill="#401d49" font-size="13" font-family="SFProText-Bold, SF Pro Text" font-weight="700" letter-spacing="0.013em"><tspan x="0" y="0">􀆊</tspan></text>
+        <text id="June_2020" data-name="June 2020" transform="translate(0 19)" font-size="20" font-family="SFProDisplay-Semibold, SF Pro Display" font-weight="600" letter-spacing="0.016em"><tspan x="0" y="0">June 2020</tspan></text>
+      </g>
+    </g>
+    <g id="Group_57" data-name="Group 57" transform="translate(26 648)">
+      <g id="Group_58" data-name="Group 58" transform="translate(-3)">
+        <g id="Button" transform="translate(-1 2)">
+          <path id="Button-2" data-name="Button" d="M14,0H312a14,14,0,0,1,14,14V42a14,14,0,0,1-14,14H14A14,14,0,0,1,0,42V14A14,14,0,0,1,14,0Z" fill="#4e2858"/>
+        </g>
+        <text id="Label" transform="translate(5 16)" fill="#e1e9f2" font-size="20" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="138.945" y="15">Apply</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

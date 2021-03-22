@@ -1,0 +1,10 @@
+.whats-for-dinner {
+  background-image: url(../images/whats-for-dinner/purple_veg.jpeg);
+
+  color: whitesmoke;
+  background-position: center;
+}
+
+.prototype img{
+  width: 100%;
+}
