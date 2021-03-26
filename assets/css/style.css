@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #F27B78;
+  color: white;
 }
 
 a:hover {
@@ -1034,7 +1034,11 @@ section {
   transition: 0.3s;
 }
 
-.portfolio .portfolio-wrap .portfolio-links a:hover {
+.project-url {
+  color: #000;
+}
+
+.portfolio .portfolio-wrap .portfolio-links .portfolio-info  a:hover {
   color: #F27B78;
 }
 

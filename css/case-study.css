@@ -83,7 +83,7 @@ h4 {
 
 .header-text {
   font: 14pt "Helvetica Neue" !important;
-  line-height: 2em;
+  line-height: 9em;
   margin: 0px 0px 20px 30px;
 }
 
@@ -92,6 +92,20 @@ h4 {
   color: black;
   font-weight: bold;
   margin: 25px 0 40px 0;
+}
+
+.pine {
+  border: none;
+    height: 4px;
+    background-color: #768760;
+    border-radius: 15px;
+}
+
+.wfd {
+  border: none;
+    height: 4px;
+    background-color: #4F2F57;
+    border-radius: 15px;
 }
 
 .img-fluid {

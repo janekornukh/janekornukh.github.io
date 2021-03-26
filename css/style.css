@@ -787,30 +787,6 @@ body h2 {
     margin: 0 auto;
 }
 
-/****Alternative Preloader********** 
-.preloader img {
-  animation: spin 3s ease;
-  transition: all;
-  width: 150px;
-  margin: 0 auto;
-}
-
-html, body {
-  margin: 0; padding: 0;
-}
-
-@keyframes spin {
-    0% {
-      transform: rotate(0deg);
-    }
-    50% {
-      transform: rotate(360deg);
-    }
-    100% {
-      transform: rotate(720deg);
-    }
-  } */
-
   .triple-spinner {
     display: block;
     position: relative;
