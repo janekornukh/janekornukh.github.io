@@ -2,3 +2,19 @@
   background-image: url(../images/Pinecone/yolki.jpg);
   color: white;
 }
+.quote {
+  text-align: center;
+  font: 14pt "Helvetica Neu Bold" !important;
+  text-decoration-style: wavy;
+  color:  #768760;
+  font-weight: bold;
+}
+
+.table {
+text-align: center;
+}
+.name {
+  color: #768760;
+ font-style: italic;
+ 
+}
