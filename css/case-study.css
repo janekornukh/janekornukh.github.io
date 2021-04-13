@@ -121,6 +121,13 @@ h4 {
     border-radius: 15px;
 }
 
+.sc {
+  border: none;
+    height: 4px;
+    background-color: #00818a;
+    border-radius: 15px;
+}
+
 .img-fluid {
   /* width: 100%; */
   max-width: 100%;
