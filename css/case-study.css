@@ -163,7 +163,9 @@ h4 {
 
 .list-inline-item a {
   color: black;
-  font: 18pt 'Poppins';
+  /* font: 18pt 'Poppins'; */
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
   margin: 0 15px 0 15px;
 }
 
