@@ -2,19 +2,19 @@
   font-family: "Optima";
   font-style: normal;
   font-weight: normal;
-  src: local("Optima"), url("../fonts/OPTIMA.woff") format("woff");
+  src: local("Optima"), url("../../fonts/OPTIMA.woff") format("woff");
 }
 @font-face {
   font-family: "Helvetica Neu Bold";
   font-weight: bold;
   src: local("Helvetica Neu Bold"),
-    url("../fonts/Helvetica Neu Bold.ttf") format("truetype");
+    url("../../fonts/Helvetica Neu Bold.ttf") format("truetype");
 }
 @font-face {
   font-family: "Helvetica Neue";
   font-weight: normal;
   src: local("HelveticaNeue Light"),
-    url("../fonts/HelveticaNeue Light.ttf") format("truetype");
+    url("../../fonts/HelveticaNeue Light.ttf") format("truetype");
 }
 
 html {
@@ -50,13 +50,14 @@ html {
   font: 30pt "Poppins";
   font-weight: bold;
   margin: 0px 20px 0px 60px;
-  transition: transform 0.2s;
+  /* transition: transform 0.2s; */
 }
 
-.logo:hover {
+/* .logo:hover {
   transform: scale(1.2);
   color: #fae1df !important;
-}
+} */
+
 .jumbotron {
   background-size: cover;
   background-repeat: no-repeat;
@@ -174,6 +175,22 @@ h4 {
   color: gray;
 }
 
+
+@media (max-width: 992px) {
+  .sticky-header {
+    top: 59px;
+  }
+
+  .list-inline {
+    line-height: 40px;
+  }
+
+  .list-inline-item a {
+    font-size: 14px;
+    margin: 0 5px 0 5px;
+  }
+
+}
 .selected {
   text-decoration: underline;
   font-family: 'Poppins';
