@@ -190,7 +190,7 @@
     }
   }
 
-  $('#sendMessage').on("click", function () {
+  $(document).on("submit", ".php-email-form",function () {
 
     $(".error-message").hide();
     $(".loading").show();
