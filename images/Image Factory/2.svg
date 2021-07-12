@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <filter id="Ellipse_18" x="1524" y="185" width="164" height="164" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_35" x="1531" y="208" width="171.377" height="171.377" filterUnits="userSpaceOnUse">
+      <feOffset dx="-5" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#255959" flood-opacity="0.282"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-_2">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="_2" data-name="2" clip-path="url(#clip-_2)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="Group_319" data-name="Group 319">
+      <g id="Group_209" data-name="Group 209">
+        <text id="Project_Overview_" data-name="Project Overview
+" transform="translate(773 202)" fill="#255959" font-size="44" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">Project Overview</tspan><tspan x="0" y="60"></tspan></text>
+        <text id="My_role:_" data-name="My role: " transform="translate(88 343)" fill="#255959" font-size="40" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">My role: </tspan></text>
+        <text id="The_problem" data-name="The problem" transform="translate(88 440)" fill="#255959" font-size="40" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">The problem</tspan></text>
+        <text id="Tools:" transform="translate(88 716)" fill="#255959" font-size="40" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">Tools:</tspan></text>
+        <text id="Timeline:" transform="translate(88 818)" fill="#255959" font-size="40" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">Timeline:</tspan></text>
+        <text id="UX_UI_FE_designer" data-name="UX/UI/FE designer" transform="translate(283 343)" font-size="40" font-family="OpenSans, Open Sans"><tspan x="0" y="0">UX/UI/FE designer</tspan></text>
+        <text id="The_cgstudio.xyz_current_company_s_website_is_outdated_and_has_confusing_navigation._Business_mission_is_unclear_with_a_poor_message_to_the_clients._Contact_page_isn_t_trustworthy_and_doesn_t_call_to_action." data-name="The cgstudio.xyz current company’s website is outdated and has confusing navigation. 
+Business mission is unclear with a poor message to the clients. Contact page isn’t trustworthy 
+and doesn’t call to action." transform="translate(88 499)" font-size="40" font-family="OpenSans, Open Sans"><tspan x="0" y="0">The cgstudio.xyz current company’s website is outdated and has confusing navigation. </tspan><tspan x="0" y="55">Business mission is unclear with a poor message to the clients. Contact page isn’t trustworthy </tspan><tspan x="0" y="110">and doesn’t call to action.</tspan></text>
+        <text id="Adobe_XD_Bootstrap4_Visual_Studio_Code_GitHub_AWS_Miro_Zoom" data-name="Adobe XD, Bootstrap4, Visual Studio Code, GitHub, AWS, Miro, Zoom" transform="translate(231 716)" font-size="40" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Adobe XD, Bootstrap4, Visual Studio Code, GitHub, AWS, Miro, Zoom</tspan></text>
+        <text id="_6_months_individual_project._" data-name="6 months, individual project.
+" transform="translate(315 816)" font-size="40" font-family="OpenSans, Open Sans"><tspan x="0" y="0">6 months, individual project.</tspan><tspan x="0" y="55"></tspan></text>
+      </g>
+      <path id="Path_14" data-name="Path 14" d="M128.542,661.745C-356.676-289.769,688.332,95.054,688.332,95.054s369.479-192.674,789.155-29.1,1149.262,425.589,782.855,693.2-112,369.483-813.208,519.649S613.759,1613.259,128.542,661.745Z" transform="translate(2129.003 2196.181) rotate(174)" fill="none" stroke="#255959" stroke-width="2"/>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_18)">
+        <g id="Ellipse_18-2" data-name="Ellipse 18" transform="translate(1533 191)" fill="#d9b590" stroke="#d9b590" stroke-width="1">
+          <circle cx="73" cy="73" r="73" stroke="none"/>
+          <circle cx="73" cy="73" r="72.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_35)">
+        <g id="Path_35-2" data-name="Path 35" transform="translate(1545 214)" fill="none">
+          <path d="M76.688,0A76.688,76.688,0,1,1,0,76.688,76.688,76.688,0,0,1,76.688,0Z" stroke="none"/>
+          <path d="M 76.6884765625 3 C 66.73928070068359 3 57.08927917480469 4.947891235351562 48.00652313232422 8.789566040039062 C 43.64082336425781 10.6361083984375 39.42987060546875 12.9217529296875 35.49065399169922 15.58306884765625 C 31.58806610107422 18.21958923339844 27.91815185546875 21.24755859375 24.58283996582031 24.58283996582031 C 21.24755859375 27.91815185546875 18.21958923339844 31.58806610107422 15.58306884765625 35.49065399169922 C 12.9217529296875 39.42987060546875 10.6361083984375 43.64082336425781 8.789566040039062 48.00652313232422 C 4.947891235351562 57.08927917480469 3 66.73928070068359 3 76.6884765625 C 3 86.63767242431641 4.947891235351562 96.28767395019531 8.789566040039062 105.3704376220703 C 10.6361083984375 109.7361297607422 12.9217529296875 113.9470825195312 15.58306884765625 117.8863067626953 C 18.21958923339844 121.7888870239258 21.24755859375 125.4588012695312 24.58283996582031 128.7941131591797 C 27.91815185546875 132.12939453125 31.58806610107422 135.1573638916016 35.49065399169922 137.7938842773438 C 39.42987060546875 140.4552001953125 43.64082336425781 142.7408447265625 48.00652313232422 144.5873870849609 C 57.08927917480469 148.4290618896484 66.73928070068359 150.376953125 76.6884765625 150.376953125 C 86.63767242431641 150.376953125 96.28767395019531 148.4290618896484 105.3704376220703 144.5873870849609 C 109.7361297607422 142.7408447265625 113.9470825195312 140.4552001953125 117.8863067626953 137.7938842773438 C 121.7888870239258 135.1573638916016 125.4588012695312 132.12939453125 128.7941131591797 128.7941131591797 C 132.12939453125 125.4588012695312 135.1573638916016 121.7888870239258 137.7938842773438 117.8863067626953 C 140.4552001953125 113.9470825195312 142.7408447265625 109.7361297607422 144.5873870849609 105.3704376220703 C 148.4290618896484 96.28767395019531 150.376953125 86.63767242431641 150.376953125 76.6884765625 C 150.376953125 66.73928070068359 148.4290618896484 57.08927917480469 144.5873870849609 48.00652313232422 C 142.7408447265625 43.64082336425781 140.4552001953125 39.42987060546875 137.7938842773438 35.49065399169922 C 135.1573638916016 31.58806610107422 132.12939453125 27.91815185546875 128.7941131591797 24.58283996582031 C 125.4588012695312 21.24755859375 121.7888870239258 18.21958923339844 117.8863067626953 15.58306884765625 C 113.9470825195312 12.9217529296875 109.7361297607422 10.6361083984375 105.3704376220703 8.789566040039062 C 96.28767395019531 4.947891235351562 86.63767242431641 3 76.6884765625 3 M 76.6884765625 0 C 119.0423431396484 0 153.376953125 34.33460998535156 153.376953125 76.6884765625 C 153.376953125 119.0423431396484 119.0423431396484 153.376953125 76.6884765625 153.376953125 C 34.33460998535156 153.376953125 0 119.0423431396484 0 76.6884765625 C 0 34.33460998535156 34.33460998535156 0 76.6884765625 0 Z" stroke="none" fill="#255959"/>
+        </g>
+      </g>
+      <circle id="Ellipse_19" data-name="Ellipse 19" cx="18" cy="18" r="18" transform="translate(1497 847)" fill="#255959"/>
+      <circle id="Ellipse_21" data-name="Ellipse 21" cx="18" cy="18" r="18" transform="translate(88 119)" fill="#d9b590"/>
+    </g>
+  </g>
+</svg>

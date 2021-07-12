@@ -1,0 +1,20 @@
+.homeland-security{
+    /* background-image: url(../img/portfolio/if-details.svg); */
+    color: #0D1F2D;
+    background-position: center;
+  }
+
+  .homeland-security img{
+    width: 100%;
+    margin: auto;
+    
+  }
+
+  .mobile img{
+    height: 600px;
+  }
+
+  .uisg {
+    width: 80%;
+    
+  }
