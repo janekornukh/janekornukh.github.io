@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'en' }}">
+{% include head.html %}
+
+<body class="{{ page.body_class }}">
+  {% unless page.hide_header %}
+    {% include header.html %}
+  {% endunless %}
+
+  <main id="{{ page.main_id | default: 'main' }}">
+    {{ content }}
+  </main>
+
+  {% include footer.html %}
+  {% include scripts.html %}
+</body>
+
+</html>

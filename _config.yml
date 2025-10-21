@@ -1,0 +1,36 @@
+# Basic site settings for GitHub Pages / Jekyll
+title: "Jenya Kornukh"
+description: "UX/UI Product Designer portfolio"
+baseurl: ""
+url: "https://janekornukh.github.io"
+
+# Exclude build artefacts that should not be published
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - Refactoring.md
+  - node_modules
+  - vendor
+
+# Keep assets folder as-is
+sass:
+  style: compressed
+
+# Enable relative links helper filters
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Third-party integrations
+hotjar:
+  id: 2246298
+  sv: 6
+
+# Simple defaults so Jekyll applies the default layout to every HTML page
+defaults:
+  - scope:
+      path: ""
+      ext: "html"
+    values:
+      layout: default
