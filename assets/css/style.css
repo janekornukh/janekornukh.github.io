@@ -4,7 +4,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #191919;
 }
 
 a {
@@ -108,12 +108,26 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
-#header {
+/*#header {
   background: #fff;
   box-shadow: 0px 0px 25px 0 rgba(0, 0, 0, 0.08);
   z-index: 997;
   padding: 15px 0;
 }
+*/
+
+#header {
+  background: rgba(255, 255, 255, 0.15); /* translucent background */
+  z-index: 997;
+  padding: 15px 0;
+  backdrop-filter: blur(4px) saturate(150%); /* frost (blur=7px) */
+  -webkit-backdrop-filter: blur(7px) saturate(150%);
+  border: 1px solid rgba(255, 255, 255, 0.25); /* light edge */
+  position: fixed;
+  overflow: hidden;
+}
+
+
 
 #header .logo {
   font-size: 32px;
@@ -164,7 +178,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #888888;
+  color: #565656;
   transition: 0.3s;
   font-size: 20px;
   font-family: "Raleway", sans-serif;
@@ -191,7 +205,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #222222;
+  color: #191919;
 }
 
 .nav-menu .drop-down ul {
@@ -224,7 +238,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
   font-weight: 500;
   text-transform: none;
-  color: #222222;
+  color: #191919;
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
@@ -288,7 +302,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color:black;
+  color:#191919;
 }
 
 .mobile-nav {
@@ -316,7 +330,7 @@ h1, h2, h3, h4, h5, h6 {
 .mobile-nav a {
   display: block;
   position: relative;
-  color: #222222;
+  color: #191919;
   padding: 10px 20px;
   font-weight: 600;
   outline: none;
@@ -386,7 +400,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header-social-links a {
-  color:black;
+  color:#191919;
   padding-left: 6px;
   display: inline-block;
   line-height: 3px;
@@ -450,7 +464,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 12px;
   transition: 0.5s;
   margin-top: 30px;
-  color: #fff;
+  color: #191919;
   background: #a3f278;
 }
 
