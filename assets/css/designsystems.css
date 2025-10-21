@@ -20,3 +20,19 @@ text-align: center;
  font-style: italic;
  
 }
+
+.custom-button {
+  display: flex;
+  height: var(--el-size-height-sm, 32px);
+  padding: var(--padding-2x-compact, 0) var(--padding-cozy, 20px);
+  justify-content: center;
+  align-items: center;
+  gap: var(--padding-2x-cozy, 8px);
+
+  border: none;
+  border-radius: var(--el-radius-md, 12px);
+  background: var(--el-color-action-secondary, #171D26);
+  color: white;
+  font: inherit;
+  cursor: pointer;
+}
