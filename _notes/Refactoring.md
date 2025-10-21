@@ -8,9 +8,9 @@ Use this checklist to track the major refactors before the visual redesign. Flip
 - ✅ [ARCH] Normalize the asset directory structure (unify `assets/img` vs `images`, enforce naming conventions, document usage).
 
 ### 🧩 HTML Structure
-- [ ] [HTML] Fix semantics on existing pages (single `<main>`, no `<ul>` inside `<p>`, consistent alt text).
-- [ ] [HTML] Replace inline case study pages with data-driven content (Markdown/JSON feeding the new template).
-- [ ] [HTML] Rebuild the contact form against a server/serverless endpoint and delete the obsolete `forms/contact.php`.
+- ✅ [HTML] Fix semantics on existing pages (single `<main>`, no `<ul>` inside `<p>`, consistent alt text).
+- ✅ [HTML] Replace inline case study pages with data-driven content (Markdown/JSON feeding the new template).
+- ✅ [HTML] Rebuild the contact form against a server/serverless endpoint and delete the obsolete `forms/contact.php`.
 
 ### 🎨 CSS & Design System
 - [ ] [CSS] Introduce shared design tokens (colors, spacing, typography) and migrate the 1,300-line `style.css` into scoped component/utility modules.

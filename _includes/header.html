@@ -7,16 +7,16 @@
         <li class="{% if nav_active == 'home' %}active{% endif %}">
           <a href="{{ '/' | relative_url }}">Home</a>
         </li>
-        <li>
+        <li class="{% if nav_active == 'about' %}active{% endif %}">
           <a href="{{ '/#about' | relative_url }}">About</a>
         </li>
-        <li>
+        <li class="{% if nav_active == 'resume' %}active{% endif %}">
           <a href="{{ '/#resume' | relative_url }}">Resume</a>
         </li>
-        <li>
+        <li class="{% if nav_active == 'portfolio' %}active{% endif %}">
           <a href="{{ '/#portfolio' | relative_url }}">Portfolio</a>
         </li>
-        <li>
+        <li class="{% if nav_active == 'contact' %}active{% endif %}">
           <a href="{{ '/#contact' | relative_url }}">Contact</a>
         </li>
       </ul>

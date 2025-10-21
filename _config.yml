@@ -22,6 +22,16 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+# Collections
+collections:
+  case_studies:
+    output: true
+    permalink: /case-studies/:slug/
+
+# Contact form
+contact_form:
+  endpoint:
+
 # Third-party integrations
 hotjar:
   id: 2246298
@@ -34,3 +44,8 @@ defaults:
       ext: "html"
     values:
       layout: default
+  - scope:
+      path: ""
+      type: case_studies
+    values:
+      layout: case-study

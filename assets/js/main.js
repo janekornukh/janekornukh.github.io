@@ -169,50 +169,53 @@
   });
 
   // contact form
+  $(document).on("submit", ".contact-form", function (event) {
+    event.preventDefault();
 
-  class ContactForm {
-    #receiver
-    #secureToken
+    const $form = $(this);
+    const endpoint = $form.data("endpoint");
+    const $loading = $form.find(".loading");
+    const $error = $form.find(".error-message");
+    const $success = $form.find(".sent-message");
 
-    constructor(receiver, secureToken) {
-      this.#receiver = receiver;
-      this.#secureToken = secureToken;
+    $error.hide().text("");
+    $success.hide();
+
+    if (!endpoint) {
+      $error.text("Form endpoint is not configured. Please try again later.").show();
+      return;
     }
 
-    send(from, subject, body, callback) {
-      Email.send({
-        SecureToken: this.#secureToken,
-        To: this.#receiver,
-        From: from,
-        Subject: subject,
-        Body: body
-      }).then(callback);
-    }
-  }
+    $loading.show();
 
-  $(document).on("submit", ".php-email-form",function () {
-
-    $(".error-message").hide();
-    $(".loading").show();
-
-    const contactForm = new ContactForm("e.kornukh@gmail.com", "bb759b9f-0fa4-4ca5-b1e5-b35e7843f9f6");
-
-    let from = $("#email").val();
-    let subject = $("#subject").val();
-    let message = "Message from " + $("#name").val() + ": <br/>" + $("#message").val();
-
-    contactForm.send(from, subject, message, callback);
-  })
-
-  function callback(message) {
-    $(".loading").hide();
-
-    if (message == "OK") {
-      $(".form-control").val("");
-      $(".sent-message").show(0).delay(4000).hide(0);
-    }
-    else
-      $(".error-message").show();
-  }
+    const formData = new FormData(this);
+    fetch(endpoint, {
+      method: "POST",
+      headers: {
+        Accept: "application/json"
+      },
+      body: formData
+    })
+      .then((response) => {
+        $loading.hide();
+        if (response.ok) {
+          this.reset();
+          $success.show().delay(4000).fadeOut();
+        }
+        return response
+          .json()
+          .then((data) => {
+            const message = data && data.error ? data.error : "Something went wrong. Please try again later.";
+            throw new Error(message);
+          })
+          .catch(() => {
+            throw new Error("Something went wrong. Please try again later.");
+          });
+      })
+      .catch((error) => {
+        $loading.hide();
+        $error.text(error.message || "Unable to submit the form at this time.").show();
+      });
+  });
 
 })(jQuery);
