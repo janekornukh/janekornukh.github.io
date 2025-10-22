@@ -201,6 +201,7 @@
         if (response.ok) {
           this.reset();
           $success.show().delay(4000).fadeOut();
+          return;
         }
         return response
           .json()
