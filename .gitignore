@@ -149,3 +149,6 @@ sftp-config.json
 .settings/
 .vscode/
 assets/img/.DS_Store
+
+# Jekyll build output
+_site/
