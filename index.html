@@ -575,46 +575,6 @@ extra_scripts:
 
             </div>
 
-            <div class="col-lg-8 mt-5 mt-lg-0">
-
-              <form class="contact-form" method="post" data-endpoint="{{ site.contact_form.endpoint }}">
-                <div class="form-row">
-                  <div class="col-md-6 form-group">
-                    <label class="sr-only" for="name">Your Name</label>
-                    <input type="text" name="name" class="form-control" id="name" placeholder="Your Name"
-                      data-rule="minlen:4" data-msg="Please enter at least 4 chars" required/>
-                    <div class="validate"></div>
-                  </div>
-                  <div class="col-md-6 form-group">
-                    <label class="sr-only" for="email">Your Email</label>
-                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email"
-                      data-rule="email" data-msg="Please enter a valid email" required/>
-                    <div class="validate"></div>
-                  </div>
-                </div>
-                <div class="form-group">
-                  <label class="sr-only" for="subject">Subject</label>
-                  <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject"
-                    data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" required/>
-                  <div class="validate"></div>
-                </div>
-                <div class="form-group">
-                  <label class="sr-only" for="message">Message</label>
-                  <textarea class="form-control" name="message" id="message" rows="5" data-rule="required"
-                    data-msg="Please write something for us" placeholder="Message" required></textarea>
-                  <div class="validate"></div>
-                </div>
-                <div class="mb-3">
-                  <div class="loading">Sending a message...</div>
-                  <div class="error-message" role="alert"></div>
-                  <div class="sent-message" role="status">Your message has been sent. Thank you!</div>
-                </div>
-                <div class="text-center">
-                  <button id="sendMessage" type="submit">Send Message</button>
-                </div>
-              </form>
-
-            </div>
           </div>
         </div>
     </section><!-- End Contact Section -->

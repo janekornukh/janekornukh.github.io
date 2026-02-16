@@ -19,9 +19,9 @@ Use this checklist to track the major refactors before the visual redesign. Flip
 - [ ] [CSS] Break CSS into Sass partials (layout, components, utilities) compiled via Jekyll, making per-case-study overrides simpler to maintain.
 
 ### ⚙️ JavaScript
-- [ ] [JS] Rewrite `assets/js/main.js`, `index.js`, and `case-study.js` as ES modules without jQuery dependencies; remove unused vendor libraries.
-- [ ] [JS] Move the contact form email logic off the client (remove exposed secure token) and rely on the new backend handler.
-- [ ] [JS] Implement component-based behaviors (navigation, portfolio filters, animations) and load them per page via the build step.
+- ✅ [JS] Rewrite `assets/js/main.js`, `index.js`, and `case-study.js` as ES modules without jQuery dependencies; remove unused vendor libraries from runtime loading.
+- ✅ [JS] Move the contact form email logic off the client (remove exposed secure token) and rely on the new backend handler. (Temporarily replaced by removing the contact form UI.)
+- ✅ [JS] Implement component-based behaviors (navigation, portfolio filters, animations) and load them per page via the build step.
 
 ### 📦 Assets & Performance
 - [ ] [PERF] Audit hero/background imagery, generate optimized WebP/AVIF variants, and serve via responsive markup/CSS `image-set`.

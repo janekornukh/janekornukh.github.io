@@ -28,10 +28,6 @@ collections:
     output: true
     permalink: /case-studies/:slug/
 
-# Contact form
-contact_form:
-  endpoint:
-
 # Third-party integrations
 hotjar:
   id: 2246298
